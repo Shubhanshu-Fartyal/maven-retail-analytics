@@ -129,7 +129,7 @@ Maven-Retail-Analytics/
 │   ├── 08_business_insights.md
 │   └── database_schema.png
 │
-├── README.md
+└──  README.md
 ```
 
 ---
