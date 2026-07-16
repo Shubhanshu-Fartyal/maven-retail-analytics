@@ -15,6 +15,8 @@ The project follows a real-world analytics workflow, covering database design, d
 - **Database:** PostgreSQL
 - **Dataset Type:** Relational (Star Schema)
 
+**Data Source:** https://mavenanalytics.io/data-playground/global-electronics-retailer
+
 ### Tables Used
 
 | Table | Description |
