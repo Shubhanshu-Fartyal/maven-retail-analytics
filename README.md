@@ -55,7 +55,7 @@ The dataset follows a **Star Schema**.
 
 Primary and Foreign Key relationships were implemented to maintain data integrity.
 
-<img width="4124" height="2387" alt="database_schema" src="https://github.com/user-attachments/assets/a92d4656-d7e1-4cac-a829-07af987838bc" />
+<img width="4090" height="2407" alt="database_schema" src="https://github.com/user-attachments/assets/f8443cff-4a7d-45db-bfd0-654799b04034" />
 
 ---
 
